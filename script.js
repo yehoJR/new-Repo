@@ -12,4 +12,8 @@
        function sospechoso() {
         alert("Hay algo sospechoso en este paso cabron jaja")
        }
+       
+       function cerca() {
+        alert("casi estas cerca de ver nuestro pagina web")
+       }
  

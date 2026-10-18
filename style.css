@@ -1,6 +1,10 @@
+* {
+ border: 2px red solid;
+}
+
 body {
  font-family: Arial, sans-serif;
- background-color: #f0f0f0;
+ background-color: lightgray;
  text-align: center;
  padding: 50px;
 }
@@ -26,9 +30,19 @@ button {
 button:hover {
  background-color: #0056b3;
 }
- 
- .btn {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
- }
+
+.btn {
+ display: flex;
+ flex-direction: column;
+ gap: 10px;
+}
+
+a {
+ background-color: #007bff;
+color: white;
+padding: 12px 25px;
+border: none;
+border-radius: 8px;
+text-decoration: none;
+cursor: pointer;
+}
