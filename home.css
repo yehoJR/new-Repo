@@ -1,7 +1,29 @@
-a {
- background-color: lightsalmon;
+body {
+ background: lightblue;
+ padding: 30px;
+ font-family: sans-serif;
+ text-align: center;
+}
+
+h1 {
+ font-size: 2rem;
+ color: green;
+ text-decoration-color: rebeccapurple;
+}
+
+section {
+ background: white;
+ color: dimgray;
  border-radius: 10px;
- font-style: none;
- padding: 5px 8px;
+ margin-bottom: 10px;
  
 }
+
+a {
+ margin-top: 10px;
+ background-color: lightsalmon;
+ border-radius: 10px;
+ text-decoration: none;
+ padding: 5px 8px;
+ 
+} 
