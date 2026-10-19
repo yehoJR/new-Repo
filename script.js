@@ -16,4 +16,8 @@
        function cerca() {
         alert("casi estas cerca de ver nuestro pagina web")
        }
+       
+       function apenas() {
+        alert("Apenas vamos en el medio para crear esta pagina")
+       }
  
